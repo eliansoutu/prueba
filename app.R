@@ -9,7 +9,7 @@ ui <- fluidPage(
   br(),
   
   column(offset = 5, width = 2,
-  actionButton("boton", "Haceme click wacho")
+  actionButton("boton", "Haceme click")
   ),
   
 
